@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rosalinda</h1>
 <h3 align="center">UI-UX Designer | Frontend Dev</h3>
 
-- 🎓 I’m currently studying on **Studying Intelligent Systems Engineering**
+- 🎓 I’m currently studying on **Intelligent Systems Engineering**
 
 - 🌱 I’m currently learning **React + TypeScript + Vite**
 
